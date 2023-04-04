@@ -1,37 +1,24 @@
-<div align="center"><img src="https://media.tenor.com/461aa5n4tXgAAAAd/horimiya-miyamura.gif" align="center" style="width: 50%" /></div>
+<div align="center"><img src="https://static.wikia.nocookie.net/a50841c6-2e86-4046-b7c5-819b54267986" align="center" style="width: 50%" /></div>
 
-# <div align="center">Hey 👋, I'm Miukyo</div>  
+# <div align="center">Hey 👋, I'm narunyan</div>  
   
 
 ### <div align="center">A enthusiastic front end developer and graphics designer</div>  
   
 
 <div align="center">
-<a href="https://github.com/miukyo" target="_blank">
+<a href="https://github.com/narunyan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/miuky0" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/miuky0" target="_blank">
+<a href="https://www.facebook.com/muhammad.fedryan.90/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_miu.kyo" target="_blank">
+<a href="https://www.instagram.com/fedryane/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 
-
-
-
-- 🌱 I’m currently learning [Vue](https://vuejs.org), [React](https://reactjs.org), [Svelte](https://svelte.dev/)
-  
-
-- ❓ Ask me about anything. I would like to have more friends  
-  
-
-- ⚡ Fun fact: I don't drink coffee but tea
 
 
 
@@ -67,5 +54,5 @@
 
 ### Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=miukyo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=narunyan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>
 <div align="center"><img src="https://raw.githubusercontent.com/miukyo/miukyo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" align="center" /></div>
